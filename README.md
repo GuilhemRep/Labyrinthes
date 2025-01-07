@@ -1,2 +1,3 @@
 # Labyrinthes
-Génération de labyrinthes selon une topologie au choix (plan, tore, bouteille de klein...) et calcul d'un plus court chemin.
+Generation of a random maze with three choices of topology (plane, torus, Klein bottle). A shortest path is found.
+![illustration](ex.png)
